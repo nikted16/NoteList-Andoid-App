@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.nikhil.notelist.MainActivity">
+    <item
+        android:id="@+id/action_create_sample"
+        android:orderInCategory="100"
+        android:title="@string/create_sample_data"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_delete_all"
+        android:orderInCategory="100"
+        android:title="@string/delete_all_notes"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/search_button"
+        android:title="@string/search"
+        android:orderInCategory="100"
+        android:icon="@android:drawable/ic_menu_search"
+        app:showAsAction="always"
+        app:actionViewClass="android.support.v7.widget.SearchView"/>
+
+</menu>

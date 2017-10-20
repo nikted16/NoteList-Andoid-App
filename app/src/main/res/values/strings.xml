@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">NoteList</string>
+    <string name="create_sample_data">Create Note</string>
+    <string name="delete_all_notes">Delete all Notes</string>
+    <string name="all_delete">Delete All Note</string>
+    <string name="are_u_sure">Are you Sure ?</string>
+    <string name="title">Title</string>
+    <string name="date">Date</string>
+    <string name="content">Content</string>
+    <string name="title_activity_add_note">AddNoteActivity</string>
+    <string name="conten">Content</string>
+    <string name="dat">Date</string>
+    <string name="titl">Title</string>
+    <string name="dummy_text">Dummy Text</string>
+    <string name="ImageDocIcon">Dummy Text</string>
+    <string name="add_note">Add Note</string>
+    <string name="note_updated">Note Updated</string>
+    <string name="action_delete">Delete</string>
+    <string name="note_deleted">Note Deleted</string>
+    <string name="camera">Camera</string>
+    <string name="search">search</string>
+    <string name="title_activity_search">SearchActivity</string>
+    <string name="title_activity_searchable">searchable</string>
+    <string name="search_here">Search</string>
+</resources>

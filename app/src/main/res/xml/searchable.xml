@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <searchable xmlns:android="http://schemas.android.com/apk/res/android"
+        android:label="@string/app_name"
+        android:voiceSearchMode="showVoiceSearchButton|launchRecognizer"
+        android:searchSuggestAuthority="com.example.nikhil.notelist.noteshandler"
+        android:searchSuggestIntentAction="android.intent.action.VIEW"
+        android:searchSuggestIntentData="content://com.example.nikhil.notelist.NotesHandler"/>
+
+</PreferenceScreen>
